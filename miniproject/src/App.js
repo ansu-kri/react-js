@@ -1,7 +1,7 @@
 import React from "react";
 
 function App() {
-  let currDate=new Date(2022,12,1,4);
+  let currDate=new Date(2022,12,1,8);
 currDate=currDate.getHours();
 
 let greeting="";
