@@ -50,7 +50,7 @@ function Navbar(){
                         
                     </div>
                     <div className="heading" style={heading}>
-                        <a href="" className="header" style={header}>Home</a>
+                        <a href="#home.html" className="header" style={header}>Home</a>
                         <a href="" className="header" style={header}>Movies</a>
                         <a href="" className="header" style={header}>Sports</a>
                         <a href="" className="header" style={header}>Cartoon</a>
