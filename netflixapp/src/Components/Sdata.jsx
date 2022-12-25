@@ -32,41 +32,41 @@ const Sdata=[
         imgscr:"https://cdn.cinematerial.com/p/297x/jwqwceyo/american-factory-movie-poster-md.jpg?v=1565930430",
         title:"A Netflix Original Series"
     },
-    // {
-    //     sname:"IMPERIAL DREAMS",
-    //     imgscr:"https://www.indiewire.com/wp-content/uploads/2017/09/imperial-dreams-2014.jpg?w=426",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"STRANGER THINGS",
-    //     imgscr:"https://static.dezeen.com/uploads/2017/09/stranger-things-season-two-netflix-poster-design-graphics.jpg",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"EXTRACTION",
-    //     imgscr:"https://cdn.shopify.com/s/files/1/0969/9128/products/Extraction-ChrisHemsworth-NetflixHollywoodBlockbusterEnglishMoviePoster_5750b617-1e4e-4bb9-beb2-3673963420d4.jpg?v=1589271995",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"THE EDGE OF WAR",
-    //     imgscr:"https://i.pinimg.com/236x/e0/cf/64/e0cf64fe9472bd5e70053e4ab361cdd2.jpg",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"STAY CLOSE",
-    //     imgscr:"https://i.pinimg.com/236x/8f/5b/83/8f5b8358e5cfd6e3a12dd1bca41f8985.jpg",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"CLINICAL",
-    //     imgscr:"https://www.indiewire.com/wp-content/uploads/2017/09/clinical-2017.jpg?w=511",
-    //     title:"A Netflix Original Series"
-    // },
-    // {
-    //     sname:"BODYGUARD",
-    //     imgscr:"https://i.pinimg.com/736x/f7/62/3d/f7623d2950a8a54357336cd33e7889f6.jpg",
-    //     title:"A Netflix Original Series"
-    // },
+    {
+        sname:"IMPERIAL DREAMS",
+        imgscr:"https://www.indiewire.com/wp-content/uploads/2017/09/imperial-dreams-2014.jpg?w=426",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"STRANGER THINGS",
+        imgscr:"https://static.dezeen.com/uploads/2017/09/stranger-things-season-two-netflix-poster-design-graphics.jpg",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"EXTRACTION",
+        imgscr:"https://cdn.shopify.com/s/files/1/0969/9128/products/Extraction-ChrisHemsworth-NetflixHollywoodBlockbusterEnglishMoviePoster_5750b617-1e4e-4bb9-beb2-3673963420d4.jpg?v=1589271995",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"THE EDGE OF WAR",
+        imgscr:"https://i.pinimg.com/236x/e0/cf/64/e0cf64fe9472bd5e70053e4ab361cdd2.jpg",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"STAY CLOSE",
+        imgscr:"https://i.pinimg.com/236x/8f/5b/83/8f5b8358e5cfd6e3a12dd1bca41f8985.jpg",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"CLINICAL",
+        imgscr:"https://www.indiewire.com/wp-content/uploads/2017/09/clinical-2017.jpg?w=511",
+        title:"A Netflix Original Series"
+    },
+    {
+        sname:"BODYGUARD",
+        imgscr:"https://i.pinimg.com/736x/f7/62/3d/f7623d2950a8a54357336cd33e7889f6.jpg",
+        title:"A Netflix Original Series"
+    },
     
 ];
 export default Sdata;

@@ -4,7 +4,7 @@ function Footer (){
     const footer={
         width:"100%",
         height:"500px",
-        backgroundColor:"black",
+        backgroundColor:"white",
         borderTop:"10px solid #222222"
     }
     const footers={
