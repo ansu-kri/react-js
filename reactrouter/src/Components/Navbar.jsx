@@ -17,16 +17,7 @@ const activeStyle={
 }
 
     return(
-        <div style={{
-            display:"flex",
-    alignItems:"center",
-    justifyContent:"space-around",
-    width:"80%",
-    height:"50px",
-    margin:"auto",
-    backgroundColor:"blue",
-    marginTop:"60px"
-    }}>
+        <div >
 
     {links.map((link)=>(<NavLink 
     className={({isActive})=>{
