@@ -38,6 +38,20 @@ body{
   color: #61dafb;
 }
 
+h1{
+  font-size: 50px;
+  margin-top: 100px;
+}
+button{
+  padding: 20px 25px;
+  border-radius: 4px;
+  border: none;
+  background-color: blue;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
